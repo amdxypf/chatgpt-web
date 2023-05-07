@@ -30,6 +30,9 @@
 
 有需要可以联系：微：sfgoods 标注一下github看到的
 
+## 价格：
+不用担心很贵，比起大几千，1000多的，这个很便宜，后端php还支持方便二次开发。价格也是三位数
+
 -------------
 ## 快速入门
 -  下载代码
@@ -381,15 +384,6 @@ Q: 前端没有打字机效果？
 
 A: 一种可能原因是经过 Nginx 反向代理，开启了 buffer，则 Nginx 会尝试从后端缓冲一定大小的数据再发送给浏览器。请尝试在反代参数后添加 `proxy_buffering off;`，然后重载 Nginx。其他 web server 配置同理。
 
-## 参与贡献
-
-贡献之前请先阅读 [贡献指南](./CONTRIBUTING.md)
-
-感谢所有做过贡献的人!
-
-<a href="https://github.com/Chanzhaoyu/chatgpt-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Chanzhaoyu/chatgpt-web" />
-</a>
 
 ## 赞助
 
@@ -397,11 +391,11 @@ A: 一种可能原因是经过 Nginx 反向代理，开启了 buffer，则 Nginx
 
 <div style="display: flex; gap: 20px;">
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/wechat.png" alt="微信" />
+		<img style="max-width: 100%" src="" alt="微信" />
 		<p>WeChat Pay</p>
 	</div>
 	<div style="text-align: center">
-		<img style="max-width: 100%" src="./docs/alipay.png" alt="支付宝" />
+		<img style="max-width: 100%" src="" alt="支付宝" />
 		<p>Alipay</p>
 	</div>
 </div>
