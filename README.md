@@ -1,8 +1,63 @@
-# ChatGPT Web
+# PHP + VUE + chatgpt 聊天web ChatGPT Web
 
-> 声明：此项目只发布于 GitHub，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
+# 体验地址点击：[123.aiman.chat](https://123.aiman.chat)
+# 手机扫码体验：
+![image](https://user-images.githubusercontent.com/8206847/236655933-f1b854de-2711-4666-99f8-25ff150e7192.png)
 
-更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus)
+
+## 除了官方的功能已经已支持功能
+
+[✓] 微信扫码登录
+
+[✓] 聊天记录后端云存储
+
+[✓] 支持卡密
+
+[✓] 支持为对话单独自定义角色
+
+[✓] 支持多卡密轮询
+
+[✓] 支持自定义小尾巴
+
+[✓] 支持维护模式
+
+[] More
+
+-------------
+## 技术栈
+- 前端：vue3
+- 后端：php (thinkphp框架 )
+
+有需要可以联系：微：sfgoods 标注一下github看到的
+
+-------------
+## 快速入门
+-  下载代码
+-  前端可以在本地打包 pnpm run build
+-  后端安装php环境
+
+
+
+
+------------
+[✓] 双模型
+
+[✓] 多会话储存和上下文逻辑
+
+[✓] 对代码等消息类型的格式化美化处理
+
+[✓] 访问权限控制
+
+[✓] 数据导入、导出
+
+[✓] 保存消息到本地图片
+
+[✓] 界面多语言
+
+[✓] 界面主题
+
+
+体验地址：[123.aiman.chat](https://123.aiman.chat)
 
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
